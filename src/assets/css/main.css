@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+}
+
+#edo {
+  margin: 0;
+  padding: 0;
+  display: none;
+  background-color: #000;
+}
+
+#lagos {
+  margin: 0;
+  padding: 0;
+  display: none;
+  background-color: #000;
+}
+#owerri {
+  margin: 0;
+  padding: 0;
+  display: none;
+  background-color: #fff;
+}
+#abuja {
+  margin: 0;
+  padding: 0;
+  display: none;
+  background-color: #fff;
+}
